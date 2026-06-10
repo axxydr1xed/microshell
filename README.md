@@ -11,10 +11,7 @@ MicroShell is a simple math-oriented programming language built on Python. There
 It depends on all the other files from this repository.
 
 ## what libraries does it use?
-`socket`, `os`, `time` (only `sleep()`)
-
-## what's up with the scripts not working if you include math functions?
-Yeah, I don't have a single fucking idea. Not a single math function works with .msh scripts. Don't ask me, I have as much ideas as you.
+`socket` (for hostname), `os` (for clearing the screen), `time` (only `sleep()`)
 
 ## what are the use cases for this?
 Uh, I don't really know. I guess it's a simple programming language to slightly get to know how to program? But then it lacks literally everything ever about a programming language. Well, you get me.
